@@ -1,6 +1,6 @@
 @font-face {
  font-family: "PTSans";
- src: url("/fonts/PTSans-Regular.ttf") format("ttf");
+ src: url("fonts/PTSans-Regular.ttf") format("ttf");
 }
 
 body { color: #333333; --red-color: #a14844; height: 100%; font-family: "PTSans"; }
